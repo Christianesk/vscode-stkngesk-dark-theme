@@ -1,0 +1,27 @@
+{
+    "name": "stkngesk-theme-dark-by-rickesk",
+    "displayName": "StkngEsk Dark Theme By RickEsk",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "StkngEsk Theme",
+        "Dark Theme",
+        "RickEsk Theme",
+        "Developing the future"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "StkngEsk Dark Theme by RickEsk",
+                "uiTheme": "vs-dark",
+                "path": "./themes/StkngEsk Dark Theme by RickEsk-color-theme.json"
+            }
+        ]
+    }
+}
