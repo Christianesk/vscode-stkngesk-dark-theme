@@ -9,7 +9,7 @@
 		"sideBar.background": "#2b2c2e",
 		"sideBarSectionHeader.background": "#242527",
 		"tab.activeBackground": "#242527",
-		"tab.activeBorder": "#f30a49",
+		"tab.activeBorder": "#f82e2e",
 
 		"titleBar.activeBackground": "#242527",
 		"titleBar.activeForeground": "#eeffff",
@@ -22,7 +22,12 @@
 
 		"statusBar.background": "#242527",
 		"statusBar.foreground": "#eeffff",
+		"statusBar.debuggingBackground": "#e2932c",
+		"statusBar.debuggingForeground": "#eeffff",
+		
 		"terminal.foreground": "#f8f8f2",
+		"panelTitle.activeBorder": "#f82e2e",
+
 
 		/*Github*/
 		"gitDecoration.addedResourceForeground": "#50fa7b",
