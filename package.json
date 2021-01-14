@@ -1,11 +1,28 @@
 {
-    "name": "stkngesk-theme-dark-by-rickesk",
-    "displayName": "StkngEsk Dark Theme By RickEsk",
-    "description": "",
+    "name": "stkngesk-theme-dark-by-christianesk",
+    "displayName": "StkngEsk Dark Theme By christiaEsk",
+    "description": "Developing the future, We love dark subjects and we didn't want to get left behind by creating our own style.",
+    "publisher": "ChristianEsk",
+    "author": {
+        "name": "Christian Mena",
+        "url": "https://stkngesk.tech"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.52.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Christianesk/vscode-stkngesk-dark-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/Christianesk/vscode-stkngesk-dark-theme/issues"
+    },
+    "galleryBanner": {
+        "color": "#242527",
+        "theme": "dark"
+    },
+    "icon": "images/icon/logo250x250.png",
     "categories": [
         "Themes"
     ],
@@ -13,14 +30,24 @@
         "StkngEsk Theme",
         "Dark Theme",
         "RickEsk Theme",
-        "Developing the future"
+        "Developing the future",
+        "ChristianEsk Theme",
+        "VSCode Dark Theme",
+        "dark"
+    ],
+    "badges": [
+        {
+            "url": "https://firebasestorage.googleapis.com/v0/b/stkngesk-website.appspot.com/o/banner-email.png?alt=media&token=ce7e58cc-73a2-4e02-af60-a05c6572774c",
+            "href": "https://stkngesk.tech",
+            "description": "Developing the Future"
+        }
     ],
     "contributes": {
         "themes": [
             {
-                "label": "StkngEsk Dark Theme by RickEsk",
+                "label": "StkngEsk Dark Theme by christiaEsk",
                 "uiTheme": "vs-dark",
-                "path": "./themes/StkngEsk Dark Theme by RickEsk-color-theme.json"
+                "path": "./themes/stkngesk-dark-theme-by-christianesk.json"
             }
         ]
     }
