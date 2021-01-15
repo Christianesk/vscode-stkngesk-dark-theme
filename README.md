@@ -1,5 +1,7 @@
 [![https://stkngesk.tech](https://img.shields.io/static/v1?label=Website&message=StkngEsk%20-%20%20Developing%20the%20Future%20%20%E2%86%92%20&color=2EF8C9)](https://stkngesk.tech)
 
+[![https://stkngesk.tech](https://img.shields.io/static/v1?label=&message=VSCode%20Marketplace%20Download&color=121212&logo=visual-studio-code)](https://github.com/Christianesk/vscode-stkngesk-dark-theme)
+
 [![StkngEsk - Dark Theme by ChristianEsk](https://firebasestorage.googleapis.com/v0/b/stkngesk-website.appspot.com/o/stkngesk-dark-theme.gif?alt=media&token=91f3c573-9029-4dee-84fd-c65957170a67)](https://stkngesk.tech)
 
 # StkngEsk - VSCode Dark Theme

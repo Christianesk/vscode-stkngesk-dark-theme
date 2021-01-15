@@ -1,13 +1,13 @@
 {
     "name": "stkngesk-theme-dark-by-christianesk",
-    "displayName": "StkngEsk Dark Theme By christiaEsk",
+    "displayName": "StkngEsk Dark Theme By christianEsk",
     "description": "Developing the future, We love dark themes and we didn't want to get left behind by creating our own style.",
     "publisher": "ChristianEsk",
     "author": {
         "name": "Christian Mena",
         "url": "https://stkngesk.tech"
     },
-    "version": "0.0.1",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.52.0"
     },
@@ -33,12 +33,28 @@
         "Developing the future",
         "ChristianEsk Theme",
         "VSCode Dark Theme",
-        "dark"
+        "dark",
+        "Theme",
+        "Visual Studio Code Theme",
+        "vscode dark",
+        "vscode dark theme",
+        "Ecuador",
+        "code theme"
     ],
     "badges": [
         {
-            "url": "https://firebasestorage.googleapis.com/v0/b/stkngesk-website.appspot.com/o/banner-email.png?alt=media&token=ce7e58cc-73a2-4e02-af60-a05c6572774c",
-            "href": "https://stkngesk.tech",
+            "url": "https://img.shields.io/static/v1?label=Organization&message=StkngEsk&color=2EF8C9&logo=github",
+            "href": "https://github.com/StkngEsk",
+            "description": "Developing the Future"
+        },
+        {
+            "url": "https://img.shields.io/static/v1?label=&message=JeanStkng&color=121212&logo=github",
+            "href": "https://github.com/jeanstkng",
+            "description": "Developing the Future"
+        },
+        {
+            "url": "https://img.shields.io/static/v1?label=&message=ChristianEsk&color=121212&logo=github",
+            "href": "https://github.com/Christianesk",
             "description": "Developing the Future"
         }
     ],
