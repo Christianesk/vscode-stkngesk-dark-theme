@@ -31,15 +31,21 @@
 		"panelTitle.activeBorder": "#f82e2e",
 		
 
-		"gitDecoration.addedResourceForeground": "#50fa7b",
+		"gitDecoration.addedResourceForeground": "#3ddb64",
 		"gitDecoration.ignoredResourceForeground": "#726c6b",
-		"gitDecoration.modifiedResourceForeground": "#ede68a",
+		"gitDecoration.modifiedResourceForeground": "#fff251",
+		"list.errorForeground":"#fb7563",
 
 
 		"debugExceptionWidget.background": "#cc000036",
 		"debugExceptionWidget.border": "#cc000036",
 		"peekViewEditorGutter.background":"#ff0000",
-		"editor.stackFrameHighlightBackground":"#fbff0036"
+		"editor.stackFrameHighlightBackground":"#fbff0036",
+
+		"editor.findMatchHighlightBackground":"#ffffff33",
+		"editor.hoverHighlightBackground":"#2ef8c966",
+		
+		
 		
 
 	},
