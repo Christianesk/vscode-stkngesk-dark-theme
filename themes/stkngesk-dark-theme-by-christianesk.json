@@ -33,7 +33,7 @@
 
 		"gitDecoration.addedResourceForeground": "#3ddb64",
 		"gitDecoration.ignoredResourceForeground": "#726c6b",
-		"gitDecoration.modifiedResourceForeground": "#fff251",
+		"gitDecoration.modifiedResourceForeground": "#f7ff00",
 		"list.errorForeground":"#fb7563",
 
 
@@ -43,11 +43,7 @@
 		"editor.stackFrameHighlightBackground":"#fbff0036",
 
 		"editor.findMatchHighlightBackground":"#ffffff33",
-		"editor.hoverHighlightBackground":"#2ef8c966",
-		
-		
-		
-
+		"editor.hoverHighlightBackground":"#2ef8c966"
 	},
 	"tokenColors": [
 		{
@@ -115,7 +111,7 @@
 		{
 			"scope": "entity.name.tag.css",
 			"settings": {
-				"foreground": "#D7BA7D"
+				"foreground": "#caff29"
 			}
 		},
 		{
@@ -136,7 +132,7 @@
 				"entity.other.attribute-name.scss"
 			],
 			"settings": {
-				"foreground": "#D7BA7D"
+				"foreground": "#caff29"
 			}
 		},
 		{
@@ -412,7 +408,7 @@
 				"entity.name.operator.custom-literal"
 			],
 			"settings": {
-				"foreground": "#b3df30"
+				"foreground": "#caff29"
 			}
 		},
 		{
