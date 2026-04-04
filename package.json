@@ -7,7 +7,7 @@
         "name": "Christian Mena",
         "url": "https://stkngesk.tech"
     },
-    "version": "1.5.0",
+    "version": "1.6.0",
     "engines": {
         "vscode": "^1.52.0"
     },
@@ -39,7 +39,8 @@
         "vscode dark",
         "vscode dark theme",
         "Ecuador",
-        "code theme"
+        "code theme",
+        "gengar"
     ],
     "badges": [
         {
@@ -64,6 +65,11 @@
                 "label": "StkngEsk Dark Theme by christiaEsk",
                 "uiTheme": "vs-dark",
                 "path": "./themes/stkngesk-dark-theme-by-christianesk.json"
+            },
+            {
+                "label": "StkngEsk Dark Theme Gengar",
+                "uiTheme": "vs-dark",
+                "path": "./themes/stkngesk-dark-theme-gengar.json"
             }
         ]
     }

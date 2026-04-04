@@ -2,7 +2,7 @@
 
 [![https://stkngesk.tech](https://img.shields.io/static/v1?label=&message=VSCode%20Marketplace%20Download&color=121212&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=ChristianEsk.stkngesk-theme-dark-by-christianesk)
 
-[![StkngEsk - Dark Theme by ChristianEsk](https://firebasestorage.googleapis.com/v0/b/stkngesk-website.appspot.com/o/stkngesk-dark-theme.gif?alt=media&token=91f3c573-9029-4dee-84fd-c65957170a67)](https://stkngesk.tech)
+[![StkngEsk - Dark Theme by ChristianEsk](images/stkngesk-theme.gif)](https://stkngesk.tech)
 
 # StkngEsk - VSCode Dark Theme
 
@@ -17,5 +17,17 @@ Developing the future, We love dark themes and we didn't want to get left behind
 5. Open Command Palette and type: Color theme, and select StkngEsk Dark theme.
 6. Qualify our theme 🙌
 
+## Available Themes
 
+This extension includes 3 themes:
 
+1. **StkngEsk Dark Theme by christiaEsk** - The original dark theme with green accents
+2. **StkngEsk Dark Theme Gengar** - A purple-themed dark theme inspired by Gengar
+
+## Configuration
+
+### Change Theme
+Open Command Palette (Ctrl+Shift+P or Cmd+Shift+P) and type:
+```
+Color Theme
+```
