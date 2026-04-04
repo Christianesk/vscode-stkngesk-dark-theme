@@ -2,7 +2,7 @@
 
 [![https://stkngesk.tech](https://img.shields.io/static/v1?label=&message=VSCode%20Marketplace%20Download&color=121212&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=ChristianEsk.stkngesk-theme-dark-by-christianesk)
 
-[![StkngEsk - Dark Theme by ChristianEsk](https://raw.githubusercontent.com/Christianesk/vscode-stkngesk-dark-theme/master/images/stkngesk-theme.gif)](https://stkngesk.tech)
+[![StkngEsk - Dark Theme by ChristianEsk](https://raw.githubusercontent.com/Christianesk/vscode-stkngesk-dark-theme/refs/heads/main/images/stkngesk-theme.gif)](https://stkngesk.tech)
 
 # StkngEsk - VSCode Dark Theme
 
