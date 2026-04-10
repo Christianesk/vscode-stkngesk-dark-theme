@@ -7,7 +7,7 @@
         "name": "Christian Mena",
         "url": "https://stkngesk.tech"
     },
-    "version": "1.13.0",
+    "version": "1.14.0",
     "engines": {
         "vscode": "^1.52.0"
     },
@@ -40,7 +40,9 @@
         "vscode dark theme",
         "Ecuador",
         "code theme",
-        "gengar"
+        "gengar",
+        "gundam",
+        "gundam aerial"
     ],
     "badges": [
         {
@@ -70,6 +72,11 @@
                 "label": "StkngEsk Dark Theme Gengar",
                 "uiTheme": "vs-dark",
                 "path": "./themes/stkngesk-dark-theme-gengar.json"
+            },
+            {
+                "label": "StkngEsk Dark Theme Gundam Aerial",
+                "uiTheme": "vs-dark",
+                "path": "./themes/stkngesk-dark-theme-gundam-aerial.json"
             }
         ]
     }
